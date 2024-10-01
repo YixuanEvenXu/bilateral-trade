@@ -9,7 +9,7 @@
 
 ## General Information
 
-This repository contains the source code for the experiments in the AAAI 2024 paper: Non-Excludable Bilateral Trade Between Groups. We implemented Algorithm 1 and tested its performance under several conditions.
+This repository contains the source code for the experiments in the AAAI 2024 paper: [Non-Excludable Bilateral Trade Between Groups](https://arxiv.org/abs/2312.11800). We implemented Algorithm 1 and tested its performance under several conditions.
 
 ## Screenshots
 
